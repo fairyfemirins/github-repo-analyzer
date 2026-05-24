@@ -1,4 +1,5 @@
-# GitHub Repository Analyzer
+## Note
+This repository was published under `fairyfemirins` due to GitHub namespace restrictions. A transfer to `femirins` is pending.
 
 An autonomous CLI tool to analyze GitHub repositories for code quality, documentation, and community health.
 
